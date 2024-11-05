@@ -1,0 +1,4 @@
+[submodule "introduction_cypress/trelloapp-vue-vite-ts"]
+	path = introduction_cypress/trelloapp-vue-vite-ts
+	url = git@github.com:filiphric/trelloapp-vue-vite-ts.git
+	branch = clean
